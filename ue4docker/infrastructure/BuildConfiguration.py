@@ -21,6 +21,7 @@ LINUX_BASE_IMAGES = {
         "10.1": "nvidia/cudagl:10.1-devel-ubuntu18.04",
         "10.2": "nvidia/cudagl:10.2-devel-ubuntu18.04",
         "11.0.3": "nvidia/cudagl:11.0.3-devel-ubuntu18.04",
+        "11.4.1": "nvidia/cudagl:11.4.1-devel-ubuntu18.04",
     },
 }
 
